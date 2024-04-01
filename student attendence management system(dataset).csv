@@ -1,0 +1,16 @@
+Student ID, Name, Grade, Attendance Date, Attendance Status, Gender, Birthdate, Parent/Guardian
+1, John Doe,10, 2024-03-01, Present, Male, 2010-05-15, Mary Doe
+2, Jane Smith,11, 2024-03-01, Absent, Female, 2009-11-20, John Smith
+3, Alice Johnson,9, 2024-03-01, Present, Female, 2011-03-10, Sarah Johnson
+4, David Brown,10, 2024-03-01, Present, Male, 2010-02-28, Michael Brown
+5, Emily Wilson,9, 2024-03-01, Absent, Female, 2011-07-12, Linda Wilson
+1, John Doe,10, 2024-03-02, Present, Male, 2010-05-15, Mary Doe
+2, Jane Smith,11, 2024-03-02, Present, Female, 2009-11-20, John Smith
+3, Alice Johnson,9, 2024-03-02, Absent, Female, 2011-03-10, Sarah Johnson
+4, David Brown,10, 2024-03-02, Absent, Male, 2010-02-28, Michael Brown
+5, Emily Wilson,9, 2024-03-02, Present, Female, 2011-07-12, Linda Wilson
+1, John Doe,10, 2024-03-03, Absent, Male, 2010-05-15, Mary Doe
+2, Jane Smith,11, 2024-03-03, Present, Female, 2009-11-20, John Smith
+3, Alice Johnson,9, 2024-03-03, Present, Female, 2011-03-10, Sarah Johnson
+4, David Brown,10, 2024-03-03, Present, Male, 2010-02-28, Michael Brown
+5, Emily Wilson,9, 2024-03-03, Absent, Female, 2011-07-12, Linda Wilson
